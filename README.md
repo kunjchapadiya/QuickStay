@@ -5,7 +5,7 @@ A Resort Booking System enables users to browse rooms, check availability, and m
 
 ## Demo
 
-Insert gif or link to demo
+[Insert gif or link to demo](https://quick-stay-two-lyart.vercel.app/)
 
 
 ## Features
